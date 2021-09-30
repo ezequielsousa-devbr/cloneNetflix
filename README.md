@@ -1,2 +1,2 @@
-# clone-netflix
-Recriação da área de perfis e da área de catálogo
+# CLONAR PAGINA NETFLIX
+Fazer a clonagem da pagina da Netflix.
